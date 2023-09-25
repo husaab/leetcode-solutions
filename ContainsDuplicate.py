@@ -10,3 +10,5 @@ class Solution:
                 storenums.add(num)
         
         return False    #by the end of the for loop, if no num was in set, then return False
+
+#Time complexity is O(n) aka linear
